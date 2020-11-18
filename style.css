@@ -1,0 +1,44 @@
+
+
+.cow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color:coral;
+    
+}
+
+.dragon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color:firebrick;
+}
+
+.Pigeons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color:grey;
+}
+
+.Teddy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color:rgb(209, 149, 69);
+}
+
+.Panda{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color:rgb(27, 182, 48);
+}
+
+.Cicada{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color:rgb(168, 120, 74);
+}
